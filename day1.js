@@ -1,47 +1,47 @@
-// // Activity 1 : Variable declaration
-// // task 1
-// var x = 30;
-// console.log(x); //output: 30
+// Activity 1 : Variable declaration
+// task 1
+var x = 30;
+console.log(x); //output: 30
 
-// //task 2
-// let firstName = "Priya";
-// console.log(firstName); //output : "Priya"
+//task 2
+let firstName = "Priya";
+console.log(firstName); //output : "Priya"
 
-// //Activity 2 : Constant declaration
-// //task 3
-// const y = true;
-// console.log(y);  //output : true
+//Activity 2 : Constant declaration
+//task 3
+const y = true;
+console.log(y);  //output : true
 
-// //Activity 3: Data types
-// //task 4
-// let num=4;
-// let str="Society";
-// let b2=false;
-// const student = {
-//     Name:"NIT KKR",
-//     branch:"CS",
-//     year:2
-// };
-// const fruits=["apple","banana"];
-// console.log(typeof num);
-// console.log(typeof str);
-// console.log(typeof b2);
-// console.log(typeof student);
-// console.log(typeof fruits);
+//Activity 3: Data types
+//task 4
+let num=4;
+let str="Society";
+let b2=false;
+const student = {
+    Name:"NIT KKR",
+    branch:"CS",
+    year:2
+};
+const fruits=["apple","banana"];
+console.log(typeof num);
+console.log(typeof str);
+console.log(typeof b2);
+console.log(typeof student);
+console.log(typeof fruits);
 
-// //activity 4: Reassigning Variables
-// //task 5
-// let x = 10;
-// console.log(x); //output: 10
-// x = 20;
-// console.log(x); //output: 20
+//activity 4: Reassigning Variables
+//task 5
+let x = 10;
+console.log(x); //output: 10
+x = 20;
+console.log(x); //output: 20
 
-// //activity 5: Understanding const
-// //task 6
-// const n = 20;
-// console.log(n); //output: 20
-// n = 30;
-// console.log(n); //output : TypeError: Assignment to constant variable.
+//activity 5: Understanding const
+//task 6
+const n = 20;
+console.log(n); //output: 20
+n = 30;
+console.log(n); //output : TypeError: Assignment to constant variable.
 
 
 //feature 1
