@@ -27,6 +27,7 @@ console.log(c1%c2); //1
 
 //activity 2
 
+
 //task6
 let x1 = 5;
 let x2 = 6;
