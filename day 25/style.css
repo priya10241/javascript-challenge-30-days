@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(94, 89, 89);
+}
+#containMovies{
+    display: inline-block;
+    justify-content: space-evenly;
+    color: antiquewhite;
+    font-size: 30px;
+    flex-wrap: nowrap;
+    flex-shrink:unset;
+    width : 2288px;
+    position: relative;
+    top:200px;
+}
+#inputMovie{
+    margin-top: 40px;
+    font-size : 40px;
+    color: aliceblue;
+    background-color: rgb(31, 28, 28);
+    border : 1px solid white;
+    border-radius: 5%;
+}
